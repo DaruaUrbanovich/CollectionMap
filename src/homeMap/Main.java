@@ -9,7 +9,7 @@ public class Main {
 
         Product product1 = new Product("Teddy", "bear");
         Product product2 = new Product("Masha", "doll");
-        Product product3 = new Product("Porshe", "car");
+        Product product3 = new Product("BMW", "car");
 
 
         Map<String, String> toys = new HashMap<>();
